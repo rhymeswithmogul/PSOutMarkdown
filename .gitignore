@@ -1,2 +1,4 @@
 # This is generated when running Pester with the -CodeCoverage parameter.
 coverage.xml
+
+output.txt
